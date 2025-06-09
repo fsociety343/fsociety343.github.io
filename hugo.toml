@@ -265,7 +265,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       avatarURL = "https://www.gravatar.com/avatar/2b0ac47c51e8fd3f36df0c3a2483184a?s=240&d=mp"
       # title shown in home page (HTML format is supported)
       # 主页显示的网站标题 (支持 HTML 格式)
-      title = ""
+      title = "Arif D Blog"
       # subtitle shown in home page (HTML format is supported)
       # 主页显示的网站副标题 (允许 HTML 格式)
       subtitle = "Kang Oprek - Learner - Linux & Cloud Enthusiat"
