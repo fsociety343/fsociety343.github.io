@@ -881,7 +881,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         [languages.en.params.home.profile]
           enable = true
           gravatarEmail = ""
-          avatarURL = "/images/avatar.png"
+          avatarURL = "https://www.gravatar.com/avatar/2b0ac47c51e8fd3f36df0c3a2483184a?s=240&d=mp"
           title = ""
           subtitle = "Kang Oprek - Learner - Linux & Cloud Enthusiat"
           typeit = true
