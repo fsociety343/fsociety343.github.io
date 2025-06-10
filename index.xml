@@ -13,8 +13,9 @@
     <author>Arif Dermawan</author>
     <guid>https://example.com/hello-world/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/joss.png" referrerpolicy="no-referrer">
-            </div>Ini adalah contoh konten yang disimpan sebagai Page Bundle.]]></description>
+                <img src="/featuredimage.png" referrerpolicy="no-referrer">
+            </div>Hello World Ini adalah tulisan pertama-ku di Github Pages, semoga kedepan bisa semakin rajin menulis lagi :D
+Dan ini adalah contoh tulisan yang disimpan sebagai Page Bundle.]]></description>
 </item>
 </channel>
 </rss>
