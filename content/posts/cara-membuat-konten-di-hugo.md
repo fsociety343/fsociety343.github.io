@@ -10,6 +10,10 @@ categories:
   - Tutorial
 author:
   - Arif D
+images: []
+resources:
+- name: "joss.png"
+  src: "joss.png"
 ---
 
 Ini adalah konten pertama saya dengan tema **LoveIt** di Hugo!

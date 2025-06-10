@@ -141,7 +141,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       post = ""
       # whether to use typeit animation for title name
       # 是否为标题显示打字机动画
-      typeit = false
+      typeit = true
 
   # Footer config
   # 页面底部信息配置
@@ -284,7 +284,15 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       enable = true
       # special amount of posts in each home posts page
       # 主页每页显示文章数量
-      paginate = 6
+      paginate = 10
+    [params.home.postList]
+      enable = true            # Wajib: aktifkan daftar postingan di homepage
+      title = "Posting Terbaru"  # Opsional: ubah judul
+      subtitle = ""            # Opsional: subjudul
+      showImage = true         # Tampilkan featured image kalau ada
+      showSummary = true       # Tampilkan ringkasan (summary)
+      pagination = 10          # Jumlah posting per halaman homepage
+
   # Social config in home page
   # 主页的社交信息设置
   [params.social]
