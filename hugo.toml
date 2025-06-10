@@ -480,7 +480,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       X = true
       Threads = true
       Facebook = true
-      Linkedin = false
+      Linkedin = true
       Whatsapp = false
       Pinterest = false
       Tumblr = false
@@ -867,8 +867,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         identifier = "github"
         pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
         post = ""
-        name = ""
-        url = "https://github.com/dillonzq/LoveIt"
+        name = "ArifD"
+        url = "https://github.com/fsociety343"
         title = "GitHub"
     [languages.en.params]
       [languages.en.params.search]
@@ -896,20 +896,18 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           social = true
           disclaimer = ""
       [languages.en.params.social]
-        GitHub = "xxxx"
-        X = "xxxx"
-        Instagram = "xxxx"
-        Facebook = "xxxx"
-        Telegram = "xxxx"
+        GitHub = "fsociety343"
+        X = "aripppd"
+        Instagram = "aripppd"
+        Facebook = "aripppd"
+        Telegram = "arifd775"
         Youtubelegacy = "xxxx"
-        HuggingFace = "xxxx"
-        Threads = "xxxx"
-        Phone = "555-555-555"
-        Email = "xxxx@xxxx.com"
+        Threads = "aripppd"
+        Email = "ariefd343@gmail.com"
         RSS = true
-        [languages.en.params.social.Mastodon]
-          id = "@xxxx"
-          prefix = "https://mastodon.technology/"
+        #[languages.en.params.social.Mastodon]
+          #id = "@xxxx"
+          #prefix = "https://mastodon.technology/"
 
   [languages.zh-cn]
     weight = 2
