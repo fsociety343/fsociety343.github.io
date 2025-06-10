@@ -1,23 +1,23 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - Category - Arif D Blog</title>
-        <link>http://localhost:1313/categories/</link>
+        <link>https://example.com/categories/</link>
         <description>Categories - Category - Arif D Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>ariefd343@gmail.com (Arif Dermawan)</managingEditor>
-            <webMaster>ariefd343@gmail.com (Arif Dermawan)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 10 Jun 2025 05:29:13 &#43;0700</lastBuildDate><atom:link href="http://localhost:1313/categories/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>ariefd343@gmail.com (Arif Dermawan)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 10 Jun 2025 05:29:13 &#43;0700</lastBuildDate><atom:link href="https://example.com/categories/" rel="self" type="application/rss+xml" /><item>
     <title>Tutorial</title>
-    <link>http://localhost:1313/categories/tutorial/</link>
+    <link>https://example.com/categories/tutorial/</link>
     <pubDate>Tue, 10 Jun 2025 05:29:13 &#43;0700</pubDate>
     <author>Arif Dermawan</author>
-    <guid>http://localhost:1313/categories/tutorial/</guid>
+    <guid>https://example.com/categories/tutorial/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Documentation</title>
-    <link>http://localhost:1313/categories/documentation/</link>
+    <link>https://example.com/categories/documentation/</link>
     <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
     <author>Arif Dermawan</author>
-    <guid>http://localhost:1313/categories/documentation/</guid>
+    <guid>https://example.com/categories/documentation/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>

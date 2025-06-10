@@ -2,61 +2,61 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/</loc><lastmod>2025-06-10T18:46:37&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/</loc><lastmod>2025-06-10T19:46:00&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/zh-cn/"
+                        href="https://example.com/zh-cn/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/"
+                    href="https://example.com/"
                     /></url><url>
-            <loc>http://localhost:1313/tags/bundle/</loc><lastmod>2025-06-10T18:46:37&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/categories/</loc><lastmod>2025-06-10T18:46:37&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/tags/bundle/</loc><lastmod>2025-06-10T18:46:37&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/categories/</loc><lastmod>2025-06-10T18:46:37&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/zh-cn/categories/"
+                        href="https://example.com/zh-cn/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/categories/"
+                    href="https://example.com/categories/"
                     /></url><url>
-            <loc>http://localhost:1313/hello-world/</loc><lastmod>2025-06-10T18:46:37&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/tags/hugo/</loc><lastmod>2025-06-10T18:46:37&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/posts/</loc><lastmod>2025-06-10T18:46:37&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/hello-world/</loc><lastmod>2025-06-10T18:46:37&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/tags/hugo/</loc><lastmod>2025-06-10T18:46:37&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/posts/</loc><lastmod>2025-06-10T19:46:00&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/zh-cn/posts/"
+                        href="https://example.com/zh-cn/posts/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/posts/"
+                    href="https://example.com/posts/"
                     /></url><url>
-            <loc>http://localhost:1313/tags/</loc><lastmod>2025-06-10T18:46:37&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/tags/</loc><lastmod>2025-06-10T18:46:37&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/zh-cn/tags/"
+                        href="https://example.com/zh-cn/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/tags/"
+                    href="https://example.com/tags/"
                     /></url><url>
-            <loc>http://localhost:1313/categories/tutorial/</loc><lastmod>2025-06-10T18:46:37&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:1313/about/</loc><lastmod>2025-06-09T21:10:14&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/categories/tutorial/</loc><lastmod>2025-06-10T18:46:37&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.com/about/</loc><lastmod>2025-06-09T21:10:14&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/zh-cn/about/"
+                        href="https://example.com/zh-cn/about/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/about/"
+                    href="https://example.com/about/"
                     /></url><url>
-            <loc>http://localhost:1313/categories/documentation/</loc><lastmod>2025-06-09T21:10:14&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://example.com/categories/documentation/</loc><lastmod>2025-06-09T21:10:14&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/zh-cn/categories/documentation/"
+                        href="https://example.com/zh-cn/categories/documentation/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/categories/documentation/"
+                    href="https://example.com/categories/documentation/"
                     /></url></urlset>
