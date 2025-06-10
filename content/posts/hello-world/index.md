@@ -5,6 +5,7 @@ draft = false
 tags = ["hugo", "bundle"]
 categories = ["Tutorial"]
 featuredImage = "featuredimage.png"
+comments = true
 +++
 
 # Hello World

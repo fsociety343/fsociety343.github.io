@@ -1,23 +1,23 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - Tag - Arif D Blog</title>
-        <link>https://example.com/tags/</link>
+        <link>https://fsociety343.github.io/tags/</link>
         <description>Tags - Tag - Arif D Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>ariefd343@gmail.com (Arif Dermawan)</managingEditor>
-            <webMaster>ariefd343@gmail.com (Arif Dermawan)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 10 Jun 2025 05:29:13 &#43;0700</lastBuildDate><atom:link href="https://example.com/tags/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>ariefd343@gmail.com (Arif Dermawan)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 10 Jun 2025 05:29:13 &#43;0700</lastBuildDate><atom:link href="https://fsociety343.github.io/tags/" rel="self" type="application/rss+xml" /><item>
     <title>Bundle</title>
-    <link>https://example.com/tags/bundle/</link>
+    <link>https://fsociety343.github.io/tags/bundle/</link>
     <pubDate>Tue, 10 Jun 2025 05:29:13 &#43;0700</pubDate>
     <author>Arif Dermawan</author>
-    <guid>https://example.com/tags/bundle/</guid>
+    <guid>https://fsociety343.github.io/tags/bundle/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Hugo</title>
-    <link>https://example.com/tags/hugo/</link>
+    <link>https://fsociety343.github.io/tags/hugo/</link>
     <pubDate>Tue, 10 Jun 2025 05:29:13 &#43;0700</pubDate>
     <author>Arif Dermawan</author>
-    <guid>https://example.com/tags/hugo/</guid>
+    <guid>https://fsociety343.github.io/tags/hugo/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
